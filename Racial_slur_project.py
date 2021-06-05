@@ -2,7 +2,7 @@
 racial_words=["nigga","black","white","damn","hispanics","dark skinned"
               ,"chinks","white skinned","pakis","slave","slut","nigger"]                                         # Set words that indicate racial slur in list #
 
-file=open("Tweet_text_file.txt","r")                                                       # It is assumed that each tweet is in each  #
+file=open("Tweet_text_file.txt","r")                                                                             # It is assumed that each tweet is in each  #
 count=0                                                                                                          # line in the text file, it is opened       #          #
 
 def profanity_level():                                                                                           # Function defined for printing the        #
